@@ -9,11 +9,11 @@
   This project can run on Windows, Linux, or Mac OS. 
   
   Compatible IDE's include:
-    * VS Code
-    * Pycharm
-    * Sublime
-    * Notepad++
-    * Other python-compatible IDE's (the above are just the ones that have been successfully used)
+    * [VS Code]
+    * [Pycharm]
+    * [Sublime]
+    * [Notepad++]
+    * [Other python-compatible IDE's (the above are just the ones that have been successfully used)]
 
   This example will use VS Code.
   
