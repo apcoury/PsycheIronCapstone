@@ -9,13 +9,11 @@
   This project can run on Windows, Linux, or Mac OS. 
   
   Compatible IDE's include:
-* VS Code
+* VS Code (used for this example)
 * Pycharm
 * Sublime
 * Notepad++
 * Other python-compatible IDE's (the above are just the ones that have been successfully used)
-
-  This example will use VS Code.
   
 ### Prerequisites
 
@@ -47,7 +45,7 @@ python psyche_app.py
 
 The following application window should appear and you can now successfully use the application:
 
-*****Image*****
+![Image of Application Demo](https://github.com/apcoury/PsycheIronCapstone/blob/master/images/PythonGUIExample.PNG)
 
 ## Deployment
 
@@ -61,7 +59,7 @@ The following application window should appear and you can now successfully use 
 
 * [NAIF SPICE Toolkit](https://maven.apache.org/) - Database to pull data from
 * [SpiceyPy](https://spiceypy.readthedocs.io/en/master/) - Dependency to access the SPICE Toolkit Functions
-* [Meshlab]() - 3D visualization of the shape model
+* [Meshlab](http://www.meshlab.net/) - 3D visualization of the shape model
 
 ## Contributors
 
