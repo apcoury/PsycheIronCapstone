@@ -18,8 +18,10 @@
 ### Prerequisites
 
 You will need to install a version of Python (3.6 or greater): [Python Download] (https://www.python.org/)
+Spiceypy is also necessary. [Spiceypy repository] (https://github.com/AndrewAnnex/SpiceyPy)
+Matplotlib is also necessary. [Matplotlib] (https://matplotlib.org/)
 
-Then have an interpreter and IDE of your choice installed.
+Afterwards, any IDE or text editor of your choice should work with this project.
 
 ### Installing
 
